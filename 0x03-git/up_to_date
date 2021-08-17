@@ -1,0 +1,5 @@
+git init
+git add .
+git commit "Commit message"
+git pull
+git push
